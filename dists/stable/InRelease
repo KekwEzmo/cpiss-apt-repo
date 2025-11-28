@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: CPISS
+Label: CPISS Repo
+Codename: stable
+
+
+Date: Fri, 28 Nov 2025 19:56:54 +0000
+MD5Sum:
+ 3c0c4655b697ef38c9c22848de69c9b2               38 Release
+ 05df55066fbe344696adbacaf13d5d78              582 main/binary-amd64/Packages
+ 83401c9ac9d0e8acb31fefeb789e85cf              433 main/binary-amd64/Packages.gz
+SHA1:
+ 2259625449f3ab84204cd17952afa280a4baf47c               38 Release
+ fea9e4319d31d29fa6c8b86e0b4ef182367588a5              582 main/binary-amd64/Packages
+ e27f5dc407543a942b79ab62bd4b99f08fa5469f              433 main/binary-amd64/Packages.gz
+SHA256:
+ fa7441218c8e567639159502c24b7279114141463e0c9c0d10bd26bbf85b3e34               38 Release
+ 98c5772fdb8c4100855fc1f69d336f6419e2fa36ae55eff45caf2ec798aa0ae0              582 main/binary-amd64/Packages
+ 65e3f0374303539821c59a1ab598a141e774726d93927517b041be8ff310d76b              433 main/binary-amd64/Packages.gz
+SHA512:
+ 6bb5ad975a0306165218bef493d213e38be50faa8a8807d1f5212e10e18d016933625f835d10dd9e1ca4bade052d77c36a664919602fd6933e58b218d342f7e4               38 Release
+ 3b986276aed95c4e59136bb2d5d39a0213152b128b91e54abc9164b0700717105bbf2ad0aaae3fdc0461f593c121ee6aac5a6f185bc5f8a94d79af98efae2307              582 main/binary-amd64/Packages
+ 77f628e71f124cf1ed82d7213eadc41c632775cd02a8031fb6b1be9dfeed1a5ee4f636e8736ebc550992ab2b19ce9d6f2b4a28fd8e273446977d73e76932d249              433 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iIoEARYKADIWIQRW7QbCAqqtWDMRGKpt8fCVpcIvbgUCaSoF7hQca2Vrdy5lem1v
+QHByb3Rvbi5tZQAKCRBt8fCVpcIvbvuPAP4mcTAdWqnL/tKOmctoExXHVHhh64GC
+XQBg+UpmvKbx0wEAvUhlta284tvEn1Ow+nqF8EgLaMrZInb1Kpx9B9dRZwE=
+=Qns8
+-----END PGP SIGNATURE-----
