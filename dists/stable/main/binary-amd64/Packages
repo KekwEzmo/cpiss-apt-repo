@@ -1,0 +1,17 @@
+Package: cpiss
+Version: 1.0-1
+Architecture: amd64
+Maintainer: KekwEzmo <kekw.ezmo@proton.me>
+Installed-Size: 31
+Depends: libc6 (>= 2.34), libncurses6 (>= 6), libtinfo6 (>= 6)
+Filename: pool/main/cpiss_1.0-1_amd64.deb
+Size: 9986
+MD5sum: 24374b405f2b0feb5b4d1f7ce7b95d62
+SHA1: 48e4b9f55f3657d362705d75c7039276fba1df5c
+SHA256: 28e7dd48380df4da1b27f8b248aae4524488e3bb3d4dedb98313d4fa646b8cc9
+Section: utils
+Priority: optional
+Description: Yellow piss Simulation (piss rain)
+ A parody terminal visualizer that renders a yellow piss-like rain
+ effect inside the terminal using ncurses.
+
